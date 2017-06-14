@@ -1,0 +1,12 @@
+Possible integration with Google Classroom
+
+If this is not possible or there are some features missing then:
+
+- Timetabling.
+- File Sharing.
+- Location and Logistics Management.
+- Integration with Google Maps and Documents.
+- Individual Learning Account with access to Course Materials, Videos and
+shared forum.
+- Teacher account with access to students and capabilities to allow for
+feedback and certificate issuance.
